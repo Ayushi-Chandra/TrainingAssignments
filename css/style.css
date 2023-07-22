@@ -47,10 +47,11 @@ body{
 } */
 
 h3{
-    background-color: rgb(177, 167, 167);
+    background-color: rgb(32, 226, 97);
 }
 body{
-    background-color: rgba(4, 83, 4, 0.822);
+    background-color: rgba(94, 202, 94, 0.822);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgba(243, 243, 79, 0.692);
 
 }
